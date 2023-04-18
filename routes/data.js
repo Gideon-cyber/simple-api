@@ -5,5 +5,7 @@ module.exports = {
     secondary: "#FF4136",
     tertiary: "#2ECC40",
     watu: "#395074",
+    watu2: "#11284C",
+    watuSec: "#FCC10F",
   },
 };
